@@ -7,7 +7,7 @@ Insertar de manera automática variables de entorno
 ## Pasos
 1) Clona el repo
    
-3) Compila la solución para optener la carpeta bind
+3) Compila la solución para obtener la carpeta bind
    
 ![image](https://github.com/eramos23/InsertEnvironmentVariables/assets/15219079/4bea2fe2-55ad-4e82-89d2-158b38cd46b9)
 
